@@ -1,2 +1,0 @@
-# GifsApp
-Gif Aplication
